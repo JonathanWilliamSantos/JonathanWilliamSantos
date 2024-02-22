@@ -2,6 +2,7 @@
 ### Olá! Eu sou o Jon 👋🏻
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jwps161999@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Fullstack-JS-Plano-de-estudos-V2-6-b0553139084846a085f45e366e85470a)
 
 ### Estou aprendendo a usar a distribuição:
 
